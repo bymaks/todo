@@ -1,0 +1,6 @@
+/logs/*
+!/logs/README.md
+/.idea
+/_db_mysql/*
+/cache/*
+/vendor/*

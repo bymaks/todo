@@ -1,0 +1,34 @@
+/*
+
+app-template.css overrides
+
+remove this comment if used
+remove this file if not
+
+*/
+.login-form{
+	background: rgba(0, 0, 0, 0.3);
+}
+.input-login-form {
+	padding: 16px 16px 16px 60px;
+	border: none;
+	background: rgba(0, 0, 0, 0.3);
+	box-shadow: inset 0 -2px 1px rgba(0,0,0,0.03);
+	font-size: 13px;
+}
+
+.a-login-form{
+	color: inherit;
+	margin: 3px;
+	padding: 3px 7px;
+	text-decoration: none;
+	border: 1px solid transparent;
+	border-top-color: transparent;
+	border-right-color: transparent;
+	border-bottom-color: transparent;
+	border-left-color: transparent;
+	border-radius: 3px;
+}
+.a-login-form:hover {
+	border-color: rgba(175, 47, 47, 0.1);
+}
